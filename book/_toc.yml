@@ -1,0 +1,14 @@
+- file: docs/index
+
+- part: Introduction to Python
+  chapters:
+  - file: python/about_py
+
+- part: Numpy
+  chapters:
+  - file: numpy/numpy
+
+
+- part: Pandas
+  chapters:
+  - file: pandas/pandas.md

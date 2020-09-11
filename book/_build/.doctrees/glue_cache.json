@@ -1,0 +1,38 @@
+{
+  "demo/matplotlib": {
+    "matplotlib_ex1": {
+      "data": {
+        "application/papermill.record/image/png": null,
+        "application/papermill.record/text/plain": "<Figure size 432x288 with 1 Axes>"
+      },
+      "metadata": {
+        "scrapbook": {
+          "mime_prefix": "application/papermill.record/",
+          "name": "matplotlib_ex1"
+        },
+        "filenames": {
+          "image/png": "/home/jubayer/Sites/quantecon-example/book/_build/jupyter_execute/demo/matplotlib_22_0.png"
+        }
+      },
+      "output_type": "display_data"
+    }
+  },
+  "demo/python_by_example": {
+    "test_program_1_updated": {
+      "data": {
+        "application/papermill.record/image/png": null,
+        "application/papermill.record/text/plain": "<Figure size 432x288 with 1 Axes>"
+      },
+      "metadata": {
+        "scrapbook": {
+          "mime_prefix": "application/papermill.record/",
+          "name": "test_program_1_updated"
+        },
+        "filenames": {
+          "image/png": "/home/jubayer/Sites/quantecon-example/book/_build/jupyter_execute/demo/python_by_example_5_0.png"
+        }
+      },
+      "output_type": "display_data"
+    }
+  }
+}
